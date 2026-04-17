@@ -1,0 +1,270 @@
+[
+  {
+    "_id": "201",
+    "invoiceNumber": "INV-100001",
+    "customerId": {
+      "_id": "1",
+      "name": "John Doe",
+      "address": "123, MG Road, Mumbai, Maharashtra",
+      "phone": "9876543210",
+      "gstNumber": "27AAAAA0000A1Z5"
+    },
+    "items": [
+      {
+        "name": "Industrial Valve A",
+        "price": 1500.5,
+        "quantity": 2,
+        "total": 3001,
+        "hsnCode": "8481"
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-16T11:53:48.020Z",
+    "subtotal": 3001,
+    "cgstAmount": 270.09,
+    "sgstAmount": 270.09,
+    "totalAmount": 3541.18,
+    "createdAt": "2026-04-16T11:53:48.020Z"
+  },
+  {
+    "_id": "1776340516744",
+    "invoiceNumber": "INV-516744",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": "102",
+        "name": "Pressure Gauge B",
+        "hsnCode": "9026",
+        "price": 450,
+        "quantity": 10,
+        "gstPercentage": 12,
+        "total": 4500
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-16T11:55:16.744Z",
+    "subtotal": 4500,
+    "cgstAmount": 405,
+    "sgstAmount": 405,
+    "totalAmount": 5310,
+    "createdAt": "2026-04-16T11:55:16.744Z"
+  },
+  {
+    "_id": "1776341413139",
+    "invoiceNumber": "INV-413139",
+    "customerId": {
+      "_id": "1776341174270",
+      "name": "kashyap",
+      "email": "kashyap@test.com",
+      "phone": "9922334455",
+      "address": "ddsafasfasfsaf",
+      "gstNumber": "24AAAAA0000A1Z5",
+      "createdAt": "2026-04-16T12:06:14.270Z"
+    },
+    "items": [
+      {
+        "productId": "101",
+        "name": "Industrial Valve A",
+        "hsnCode": "8481",
+        "price": 1500.5,
+        "quantity": 3,
+        "gstPercentage": 18,
+        "total": 4501.5
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-16T12:10:13.139Z",
+    "subtotal": 4501.5,
+    "cgstAmount": 405.135,
+    "sgstAmount": 405.135,
+    "totalAmount": 5311.77,
+    "createdAt": "2026-04-16T12:10:13.139Z"
+  },
+  {
+    "_id": "1776342811550",
+    "invoiceNumber": "INV-811550",
+    "customerId": {
+      "_id": "1",
+      "name": "John Doe",
+      "phone": "9876543210",
+      "address": "123, MG Road, Mumbai, Maharashtra",
+      "gstNumber": "27AAAAA0000A1Z5",
+      "createdAt": "2026-04-16T11:54:23.869Z"
+    },
+    "items": [
+      {
+        "productId": "102",
+        "name": "Pressure Gauge B",
+        "hsnCode": "9026",
+        "price": 450,
+        "quantity": 1,
+        "gstPercentage": 12,
+        "total": 450
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-16T12:33:31.550Z",
+    "subtotal": 450,
+    "cgstAmount": 40.5,
+    "sgstAmount": 40.5,
+    "totalAmount": 531,
+    "createdAt": "2026-04-16T12:33:31.550Z"
+  },
+  {
+    "_id": "1776344849244",
+    "invoiceNumber": "INV-849244",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": "101",
+        "name": "Industrial Valve A",
+        "hsnCode": "8481",
+        "price": 1500.5,
+        "quantity": 1,
+        "gstPercentage": 18,
+        "total": 1500.5
+      }
+    ],
+    "isGST": false,
+    "date": "2026-04-16T13:07:29.244Z",
+    "subtotal": 1500.5,
+    "cgstAmount": 0,
+    "sgstAmount": 0,
+    "totalAmount": 1500.5,
+    "createdAt": "2026-04-16T13:07:29.244Z"
+  },
+  {
+    "_id": "1776344869217",
+    "invoiceNumber": "INV-869217",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": "101",
+        "name": "Industrial Valve A",
+        "hsnCode": "8481",
+        "price": 1500.5,
+        "quantity": 1,
+        "gstPercentage": 18,
+        "total": 1500.5
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-16T13:07:49.217Z",
+    "subtotal": 1500.5,
+    "cgstAmount": 135.045,
+    "sgstAmount": 135.045,
+    "totalAmount": 1770.5900000000001,
+    "createdAt": "2026-04-16T13:07:49.217Z"
+  },
+  {
+    "_id": "1776398331165",
+    "invoiceNumber": "INV-331165",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Manual Test Service",
+        "hsnCode": "9983",
+        "price": 500,
+        "quantity": 2,
+        "gstPercentage": 18,
+        "total": 1000
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-17T03:58:51.165Z",
+    "subtotal": 1000,
+    "cgstAmount": 90,
+    "sgstAmount": 90,
+    "totalAmount": 1180,
+    "createdAt": "2026-04-17T03:58:51.165Z"
+  },
+  {
+    "_id": "1776398493975",
+    "invoiceNumber": "INV-493975",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "rent of april month ",
+        "hsnCode": "9923",
+        "price": 17000,
+        "quantity": 1,
+        "gstPercentage": 18,
+        "total": 17000
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-17T04:01:33.975Z",
+    "subtotal": 17000,
+    "cgstAmount": 1530,
+    "sgstAmount": 1530,
+    "totalAmount": 20060,
+    "createdAt": "2026-04-17T04:01:33.975Z"
+  },
+  {
+    "_id": "1776398756492",
+    "invoiceNumber": "INV-756492",
+    "customerId": {
+      "_id": "1776340493763",
+      "name": "Jay",
+      "phone": "9922334444",
+      "address": "Dehgam Ahmedabad",
+      "gstNumber": "21AAAAMMMMM2",
+      "createdAt": "2026-04-16T11:54:53.763Z"
+    },
+    "items": [
+      {
+        "productId": null,
+        "name": "Optional Quantity Test",
+        "hsnCode": "",
+        "price": 750,
+        "quantity": 1,
+        "gstPercentage": 18,
+        "total": 750
+      }
+    ],
+    "isGST": true,
+    "date": "2026-04-17T04:05:56.492Z",
+    "subtotal": 750,
+    "cgstAmount": 67.5,
+    "sgstAmount": 67.5,
+    "totalAmount": 885,
+    "createdAt": "2026-04-17T04:05:56.492Z"
+  }
+]

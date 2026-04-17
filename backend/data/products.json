@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "101",
+    "name": "Industrial Valve A",
+    "hsnCode": "8481",
+    "price": 1500.5,
+    "gstPercentage": 18,
+    "createdAt": "2026-04-16T11:54:23.875Z"
+  },
+  {
+    "_id": "102",
+    "name": "Pressure Gauge B",
+    "hsnCode": "9026",
+    "price": 450,
+    "gstPercentage": 12,
+    "createdAt": "2026-04-16T11:54:23.875Z"
+  }
+]
