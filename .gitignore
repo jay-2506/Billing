@@ -1,2 +1,6 @@
 .env
 node_modules
+README.md
+render.yaml
+package-lock.json
+package.json
